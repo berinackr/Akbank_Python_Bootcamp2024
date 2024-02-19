@@ -1,6 +1,7 @@
 # Library Management System
 
 This is a simple library management system implemented in Python. It allows users to list, add, remove, and search for books in a library.
+
 ![menu](menu.png)
 ## Files
 
